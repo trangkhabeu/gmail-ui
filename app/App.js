@@ -5,12 +5,10 @@ import MyTabBar from '../components/MyTabBar';
 
 const App = () => {
   return (
-      <MyTabBar/>
+    <MyTabBar />
   );
 };
 
-const styles = StyleSheet.create({
-  
-});
+const styles = StyleSheet.create({});
 
 export default App;
